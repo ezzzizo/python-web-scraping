@@ -6,12 +6,11 @@ a python script which scrapes data from of a certain website and save it into a 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20Selenium-orange)
 
-A Python-based web scraping project that extracts and processes data from websites using libraries like `requests`, `BeautifulSoup`, and `Selenium`. The scraped data is saved in a structured format such as CSV or a database.
+A Python-based web scraping project that extracts and processes data from websites using libraries like `requests` and `BeautifulSoup`. The scraped data is saved in a structured format such as CSV or a database.
 
 ## Features
 ✅ Extracts data from web pages
 ✅ Supports `requests` + `BeautifulSoup` for lightweight scraping
-✅ Uses `Selenium` for dynamic content handling
 ✅ Saves data to CSV for easy analysis
 ✅ Modular and scalable structure
 

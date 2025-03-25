@@ -1,7 +1,7 @@
 
 # Python Web Scraping
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20Selenium-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20)
 
 A Python-based web scraping project that extracts and processes data from websites using libraries like `requests` and `BeautifulSoup`. The scraped data is saved in a structured format such as CSV or a database.
 
